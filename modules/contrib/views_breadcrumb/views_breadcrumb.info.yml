@@ -1,0 +1,11 @@
+name: Views breadcrumb
+type: module
+description: Setting bread crumbs for all the view's pages.
+# core: 8.x
+package: Custom
+
+# Information added by Drupal.org packaging script on 2016-05-03
+version: '8.x-1.0'
+core: '8.x'
+project: 'views_breadcrumb'
+datestamp: 1462289645
